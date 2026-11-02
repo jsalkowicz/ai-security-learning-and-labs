@@ -14,7 +14,7 @@ The repository will include both:
 | Section | Focus | Status |
 | --- | --- | --- |
 | 01 | OpenAI AI Foundations | ✅ Complete |
-| 02 | Anthropic AI Fluency | ⬜ Planned |
+| 02 | Anthropic AI Fluency | ✅ Complete |
 | 03 | Anthropic AI Capabilities and Limitations | ⬜ Planned |
 | 04 | Google Generative AI Fundamentals | ⬜ Planned |
 
@@ -25,6 +25,7 @@ I am currently building foundational knowledge in:
 - artificial intelligence
 - large language models
 - prompting and context
+- human-AI collaboration
 - model limitations
 - responsible AI use
 - AI application architecture
@@ -58,6 +59,21 @@ I completed the OpenAI Academy **AI Foundations** learning path on October 29, 2
 This course covered foundational concepts around AI, large language models, giving clear instructions, using context, reviewing outputs, and responsible AI use.
 
 ➡️ [View the OpenAI AI Foundations checkpoint](01-openai-ai-foundations/README.md)
+
+### Anthropic AI Fluency: Framework & Foundations
+
+I completed Anthropic's **AI Fluency: Framework & Foundations** course in November 2026 and passed the assessment with a score of **10/10 (100%)**.
+
+The course introduced the 4D AI Fluency Framework:
+
+- Delegation
+- Description
+- Discernment
+- Diligence
+
+I documented how these concepts connect to AI security topics including prompt injection, output validation, human oversight, agent autonomy, excessive agency, governance, and least privilege.
+
+➡️ [View the Anthropic AI Fluency checkpoint](02-anthropic-ai-fluency/README.md)
 
 ## Direction
 
